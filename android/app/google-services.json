@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24087330411",
+    "project_id": "motorepuestos-c2950",
+    "storage_bucket": "motorepuestos-c2950.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24087330411:android:85cf99e71bc7fab8697b2e",
+        "android_client_info": {
+          "package_name": "com.example.moturep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EroVL1OXhSkdNDAtngOYa3Q8VrFf1JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
